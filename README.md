@@ -65,7 +65,7 @@ We provide three options: (1) single keypoint (e.g., robot end-effector or human
 Download `MotIF.zip` (1.4GB) and unzip the folder under `./data`.
 ```
 mkdir data && cd data
-wget https://storage.googleapis.com/motif-1k/MotIF.zip && unzip MotIF.zip .
+wget https://github.com/Minyoung1005/motif/releases/download/v1.0/MotIF.zip && unzip MotIF.zip .
 ```
 
 `./data/MotIF` should contain three subfolders: `annotations`, `human_motion`, and `stretch_motion`. See the following data structure for details.
